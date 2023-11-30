@@ -1,0 +1,3 @@
+Range [a,b]
+Answer = f(b) - f(a-1)
+f(x) Range : [0, x]
